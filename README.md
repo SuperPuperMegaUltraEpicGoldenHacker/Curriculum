@@ -1,2 +1,2 @@
 # Curriculum
-Mainly my programming career curriculum, other stuff's curriculums
+Mainly my programming career curriculum and other stuff's curriculums too.
